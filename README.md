@@ -36,23 +36,11 @@ The project demonstrates how AI can be responsibly integrated to support **data-
 
 ---
 
-## 📂 Project Architecture
-
-TalentMatch-AI/
-│
-├── frontend/ # React (TS) UI
-├── backend/ # Pewter.js backend
-├── components/ # Reusable UI components
-├── services/ # AI & storage services
-└── README.md
-
----
-
 ## 🔧 Setup & Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/TalentMatch-AI.git
+https://github.com/Avadhut4244/TalentMatch-AI/tree/main
 
 # Navigate to the project directory
 cd TalentMatch-AI
@@ -62,3 +50,4 @@ npm install
 
 # Start development server
 npm run dev
+
